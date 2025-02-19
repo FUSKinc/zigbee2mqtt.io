@@ -27,6 +27,8 @@ pageClass: device-page
 
 <!-- Notes END: Do not edit below this line -->
 
+##Pairing
+Press one of the 4 buttons for at least 8 seconds. The red back light will turn off and then start flashing. Once the pairing is finished, the red back light stays on.
 
 
 ## Options
